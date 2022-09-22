@@ -11,3 +11,7 @@
 
 ## 2022.09.15
   - Learning Pandas dataframe
+
+## 2022.09.22
+  - subsetting data
+  - adding & removing data
