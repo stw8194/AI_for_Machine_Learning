@@ -16,3 +16,11 @@
   - subsetting data
   - adding & removing data
   - concatenating data
+
+## 2022.09.29
+  - pivoting, melting
+  - stack, unstack
+  - Finding problematic data part
+  - Mitigating Issues part
+  - Filtering data
+  - Merging DataFrames
